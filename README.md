@@ -9,7 +9,23 @@ This repository may be useful for those who are looking for examples of:
 -  Embedding a console application
 -  Importing new .onnx-model into ML-Agent in runtime
 
-# Running new reinforcement learning session 
 
-![Reinforcement learning session in embedded Unity  executable](/images/RL.gif)
+
+# Introduction
+
+
+
+## Running reinforcement learning session in embedded Unity  executable
+
+![Reinforcement learning](/images/RL.gif)
+
+## Recording demonstrations for imitation learning (BC, GAIL)
+
+![Recording demos](/images/demos.gif)
+
+## Testing and comparing models by importing into agent in runtime
+
+![Overriding onnx-model](/images/test.gif)
+
+
 
